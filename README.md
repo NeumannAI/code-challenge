@@ -20,17 +20,24 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## NextJS Code Challenge
 
-To learn more about Next.js, take a look at the following resources:
+NextJS Challenge for Javascript developers.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<b>API:</b> Dog API<br/>
+<b>API Documentation: https://dog.ceo/dog-api</b><br />
+<b>Tech:</b> Next.js, React<br />
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<b>User Stories</b><br/>
 
-## Deploy on Vercel
+- As a user I want to be able to load the initial page and see all the Dog Breeds in a select list
+- As a user I want to be able to click on one breed and see the dog image for that breed
+- As a user I want to be able to click a breed and see the all the sub-breeds
+- As a user I want in the initial page be able to search for a specific Breed and filter
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<br />
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<b>Additional Details</b>
+
+- Bonus points will be given for styling
+- Feel free to use any UI Companent library (Material, Bootstrap etc)
